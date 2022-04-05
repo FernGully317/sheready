@@ -1,3 +1,2 @@
 # sheready
-She-ready
-readme.md
+She-ready Readme.md
