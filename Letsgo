@@ -1,0 +1,7 @@
+Echo "#Sheready" >> Readme.MD
+Git Init 
+Git add Readme.md
+Git Commit -M "First Commit"
+Git Branch -Main 
+Gitt remoote Add Orgin Https://github.com/Ferngully317/Sheready.git
+Git push -U orgin main
